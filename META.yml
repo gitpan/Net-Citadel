@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Net-Citadel
-version:            0.10
+version:            0.15
 abstract:           Citadel.org protocol coverage
 author:
     - Robert Barta <rho@devc.at>, Robert James Clay <jame@rocasa.us>
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
