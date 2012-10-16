@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-Citadel
-version:            0.15
+version:            0.16
 abstract:           Citadel.org protocol coverage
 author:
     - Robert Barta <rho@devc.at>, Robert James Clay <jame@rocasa.us>
